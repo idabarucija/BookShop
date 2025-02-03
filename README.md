@@ -1,4 +1,4 @@
-# BookShop
+ BookShop
 E-commerce book purchase and checkout testing
 Installation:
 To set up this project on your local machine, follow these steps:
@@ -11,7 +11,7 @@ https://github.com/idabarucija/BookShop.git
  3. Install dependencies
 mvn clean install
 
-Technologies Used
+Technologies Used:
 
 Java
 
