@@ -1,6 +1,9 @@
- BookShop
-E-commerce book purchase and checkout testing
-Installation:
+ **BookShop** - **E-commerce book purchase and checkout testing**
+ 
+ This is my second project during a one-month internship, where we tested the smoke flow of product purchase and checkout.
+
+
+**Installation:**
 To set up this project on your local machine, follow these steps:
 1. Clone the repository
 https://github.com/idabarucija/BookShop.git
@@ -11,7 +14,7 @@ https://github.com/idabarucija/BookShop.git
  3. Install dependencies
 mvn clean install
 
-Technologies Used:
+**Technologies Used:**
 
 Java
 
@@ -23,17 +26,5 @@ Maven
 
 IntelliJ IDEA
 
-Project Structure
 
-project-root/
-│── src/
-│   ├── test/
-│   │   ├── java/
-│   │   │   ├── BaseSetup.java           Base test setup
-│   │   │   ├── PageBookCart.java        Page Object Model for book cart
-│   │   │   ├── TestBookCart.java        Test cases for book purchase
-│── target/
-│   ├── test-classes/                    Compiled test classes
-│── README.md                            Project documentation
-│── pom.xml                              Maven dependencies and configuration
 │── .gitignore                           Files to ignore in Git
