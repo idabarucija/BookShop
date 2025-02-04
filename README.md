@@ -26,5 +26,12 @@ Maven
 
 IntelliJ IDEA
 
+**This project also includes an Excel file containing a table with test cases documented as a test report.**
 
-│── .gitignore                           Files to ignore in Git
+
+
+
+
+
+
+
